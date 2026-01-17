@@ -1,0 +1,4 @@
+C:\Users\hic\Documents\GitHub\MyMvcTemplate\MyMvcTemplate\MyMvcTemplate\bin\MyMvcTemplate.dll
+C:\Users\hic\Documents\GitHub\MyMvcTemplate\MyMvcTemplate\MyMvcTemplate\bin\MyMvcTemplate.pdb
+C:\Users\hic\Documents\GitHub\MyMvcTemplate\MyMvcTemplate\MyMvcTemplate\obj\Debug\MyMvcTemplate.dll
+C:\Users\hic\Documents\GitHub\MyMvcTemplate\MyMvcTemplate\MyMvcTemplate\obj\Debug\MyMvcTemplate.pdb
